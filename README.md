@@ -1,6 +1,6 @@
 All below Algorithms are performed on Algeria fire forest dataset uci
 
-Linear Regression
-Ridge Regression
-Lasso Regression
-Elastic Net Regression 
+1. Linear Regression
+2. Ridge Regression
+3. Lasso Regression
+4. Elastic Net Regression 
